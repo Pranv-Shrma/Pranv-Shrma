@@ -5,10 +5,10 @@
 
 </centre>
 
-- 👋 Hi, I’m @Pranv-Shrma
-- 👀 I’m interested in <b> DevOps </b>
+- 👋 Hi, new to this endless space...getting glipse of all past, present, future of this space
+- 👀 I’m interested in <b> DevOps Engineering | Web Development | Exploring </b>
 - 🌱 I’m currently learning <b> Web Development </b>
-- 💞️ I’m looking to collaborate on <b><i> Web Services </i></b> 
+- 💞️ I’m looking to collaborate on <b><i> Web Projects | Open Source Projects </i></b> 
 - 📫 How to reach me pranvshrma13@gmail.com
 
 <!---
