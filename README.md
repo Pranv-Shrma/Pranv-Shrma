@@ -1,17 +1,44 @@
-<centre>
-  <h1><b> Hi! I'm Pranav Sharma </b></h1>
-  <h3><b> Learning | Creating | Web Dev | DevOps </b></h3>
-  
+##   Pranav Sharma - Machine Learning Engineer & Data Scientist
 
-</centre>
+**I'm passionate about harnessing the power of machine learning and deep learning to solve real-world problems and empower businesses.** With a focus on chatbots, fine-tuning LLMs, and building practical tools, I'm constantly exploring new ways to leverage these technologies to drive growth and innovation.
 
-- 👋 Hi, new to this endless space...getting glipse of all past, present, future of this space
-- 👀 I’m interested in <b> DevOps Engineering | Web Development | Exploring </b>
-- 🌱 I’m currently learning <b> Web Development </b>
-- 💞️ I’m looking to collaborate on <b><i> Web Projects | Open Source Projects </i></b> 
-- 📫 How to reach me pranvshrma13@gmail.com
+**Current Focus:**
 
-<!---
-Pranv-Shrma/Pranv-Shrma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **Chatbots:** Developing engaging and intelligent chatbots to enhance user experience and streamline customer interactions.
+* **Fine-tuning LLMs:** Tailoring large language models (LLMs) for specific tasks and business needs.
+* **Building Business-Oriented Tools:** Creating practical applications of machine learning and deep learning to assist businesses in achieving their goals.
+
+**Languages & Tools:**
+
+* Python ( Pandas, NumPy, TensorFlow, PyTorch)
+* SQL (MySQL, PostgreSQL)
+* Git & Version Control Systems
+* Cloud Platforms (AWS, Google Cloud Platform)
+* Data Visualization Libraries (Matplotlib, Seaborn)
+
+**Always Learning & Exploring:**
+
+* Continuously expanding my knowledge base in the ever-evolving realm of AI and machine learning.
+* Eager to collaborate with like-minded individuals and contribute to open-source projects.
+
+**Connect With Me:**
+
+* [LinkedIn](https://www.linkedin.com/in/[your-linkedin-profile]) 
+* [My Website](https://www.pranavsharma.tech]) 
+* [X (twitter)](https://x.com/NoobToNeural]) 
+
+**Machine Learning & Deep Learning Landscape:**
+
+(Adding logos for Python, TensorFlow, PyTorch, Scikit-learn, etc.)
+<div display:flex>
+  <div>
+      <img alt="Alt text" width="50" height="50" src="https://github.com/user-attachments/assets/c613d98f-2002-40d8-9537-a029be3b50a8">
+  </div>
+  <div>
+      <img alt="Alt text" width="50" height="50" src="https://github.com/user-attachments/assets/7addcee3-b18d-470a-9b7f-e15c9150870f">
+  </div>
+</div>
+
+
+
+**Let's build something cool together!**
