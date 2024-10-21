@@ -23,6 +23,12 @@
 
 **Connect With Me:**
 
+<p align="left">
+  <a href="https://github.com/yourusername" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/> </a>
+  <a href="https://twitter.com/yourusername" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Twitter" width="40" height="40"/> </a>
+</p>
+
 * [LinkedIn](https://www.linkedin.com/in/[your-linkedin-profile]) 
 * [My Website](https://www.pranavsharma.tech]) 
 * [X (twitter)](https://x.com/NoobToNeural]) 
@@ -42,3 +48,5 @@
 
 
 **Let's build something cool together!**
+### Connect with me:
+
