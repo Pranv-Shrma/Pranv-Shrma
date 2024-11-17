@@ -34,19 +34,6 @@
 * [X (twitter)](https://x.com/NoobToNeural]) 
 
 **Machine Learning & Deep Learning Landscape:**
-
-(Adding logos for Python, TensorFlow, PyTorch, Scikit-learn, etc.)
-<div display:flex>
-  <div>
-      <img alt="Alt text" width="50" height="50" src="https://github.com/user-attachments/assets/c613d98f-2002-40d8-9537-a029be3b50a8">
-  </div>
-  <div>
-      <img alt="Alt text" width="50" height="50" src="https://github.com/user-attachments/assets/7addcee3-b18d-470a-9b7f-e15c9150870f">
-  </div>
-</div>
-
-
-
 **Let's build something cool together!**
 ### Connect with me:
 
