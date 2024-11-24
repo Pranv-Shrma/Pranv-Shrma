@@ -21,19 +21,20 @@
 * Continuously expanding my knowledge base in the ever-evolving realm of AI and machine learning.
 * Eager to collaborate with like-minded individuals and contribute to open-source projects.
 
-**Connect With Me:**
-
-<p align="left">
-  <a href="https://github.com/yourusername" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/> </a>
-  <a href="https://twitter.com/yourusername" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Twitter" width="40" height="40"/> </a>
+### **Skills:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,py,fastapi,pytorch,tensorflow,postgres,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,dynamodb,linux,ubuntu"/>
+  </a>
 </p>
 
-* [LinkedIn](https://www.linkedin.com/in/[your-linkedin-profile]) 
-* [My Website](https://www.pranavsharma.tech]) 
-* [X (twitter)](https://x.com/NoobToNeural]) 
+### **Connect With Me:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,twitter" /><br>
+  </a>
+</p>
 
 **Machine Learning & Deep Learning Landscape:**
 **Let's build something cool together!**
-### Connect with me:
-
