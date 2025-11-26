@@ -1,40 +1,50 @@
-##   Pranav Sharma - Machine Learning Engineer & Data Scientist
+# 💻 Pranav Sharma - AI/ML Engineer
 
-**I'm passionate about harnessing the power of machine learning and deep learning to solve real-world problems and empower businesses.** With a focus on chatbots, fine-tuning LLMs, and building practical tools, I'm constantly exploring new ways to leverage these technologies to drive growth and innovation.
+Ambitious and results-driven AI/ML Engineer. Proficient in building and deploying end-to-end solutions, with hands-on experience in Generative AI, MLOps, and scalable backend systems.
 
-**Current Focus:**
+---
 
-* **Chatbots:** Developing engaging and intelligent chatbots to enhance user experience and streamline customer interactions.
-* **Fine-tuning LLMs:** Tailoring large language models (LLMs) for specific tasks and business needs.
-* **Building Business-Oriented Tools:** Creating practical applications of machine learning and deep learning to assist businesses in achieving their goals.
+## 🎯 Core Expertise & Solutions
 
-**Languages & Tools:**
+I specialize in building and deploying **end-to-end AI/ML solutions** with a proven track record in Generative AI and MLOps, as demonstrated in my experience:
 
-* Python ( Pandas, NumPy, TensorFlow, PyTorch)
-* SQL (MySQL, PostgreSQL)
-* Git & Version Control Systems
-* Cloud Platforms (AWS, Google Cloud Platform)
-* Data Visualization Libraries (Matplotlib, Seaborn)
+* **Generative AI & LLM Optimization:**
+    Built a multi-context health chatbot with **Redis**-backed chat tracking and **RAG** integration for real-time, accurate responses to hospital queries.
+    Reduced user transcription generation time by **70%** by integrating the Nova model over OpenAI Whisper
+    Fine-tuned Whisper-small for Hindi ASR, reducing Word Error Rate (WER) by **50 percentage points** (from 89.73% to 39.95%).
+* **MLOps & Scalability:**
+    Implemented a complete MLOps pipeline using **MLflow, DVC, and GitHub Actions** for automated model training, versioning, and deployment.
+    Deployed the entire pipeline on **AWS** using services like S3 bucket and EC2 instance for scalability.
+* **Backend Engineering & Automation:**
+    Developed a Django-based hospital CRM with patient reminders and custom campaign systems, leveraging **Celery** for periodic tasks and backend workflows.
 
-**Always Learning & Exploring:**
+---
 
-* Continuously expanding my knowledge base in the ever-evolving realm of AI and machine learning.
-* Eager to collaborate with like-minded individuals and contribute to open-source projects.
+## 🛠 Technical Skills
 
-### **Skills:**
+I am proficient in the following tools and frameworks, focusing on deployment-ready and scalable systems:
+
+| Category | Skills & Frameworks |
+| :--- | :--- |
+| **Languages** | Python, Javascript, HTML, CSS, SQL (MySQL, PostgreSQL) |
+| **Gen AI & NLP** | Large Language Models, RAG, Hugging Face, LangChain, Tokenization, NER |
+| **ML/DL** | PyTorch, TensorFlow, Keras, Scikit-Learn |
+| **Web Frameworks** | FastAPI, Django |
+| **Developer Tools** | Git, Docker, **Redis**, MLflow, DVC, GitHub Actions |
+| **Cloud/Database** | AWS, Azure, PostgreSQL, MongoDB, MySQL|
+
+### **Skills Stack (Visualizing Core Technologies):**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,py,fastapi,pytorch,tensorflow,postgres,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,dynamodb,linux,ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,django,aws,docker,redis,git,github,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,azure,linux,gcp" />
   </a>
 </p>
 
-### **Connect With Me:**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,twitter" /><br>
-  </a>
-</p>
+---
 
-**Machine Learning & Deep Learning Landscape:**
-**Let's build something cool together!**
+## 🔗 Connect With Me
+
+* **LinkedIn:** [Linkedin/Pranav](https://linkedin.com/in/Pranav) 
+* **Portfolio/Website:** [pranavsharma.org](https://pranavsharma.org) 
+* **Email:** reach.sharmapranav@gmail.com 
