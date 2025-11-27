@@ -33,7 +33,7 @@ I am proficient in the following tools and frameworks, focusing on deployment-re
 | **Developer Tools** | Git, Docker, **Redis**, MLflow, DVC, GitHub Actions |
 | **Cloud/Database** | AWS, Azure, PostgreSQL, MongoDB, MySQL|
 
-### **Skills Stack (Visualizing Core Technologies):**
+### **Skills Stack:**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,django,aws,docker,redis,git,github,vscode" /><br>
