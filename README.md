@@ -45,6 +45,6 @@ I am proficient in the following tools and frameworks, focusing on deployment-re
 
 ## 🔗 Connect With Me
 
-* **LinkedIn:** [Linkedin/Pranav](https://linkedin.com/in/Pranav) 
+* **LinkedIn:** [Linkedin/Pranav]([https://www.linkedin.com/in/pranvshrma/) 
 * **Portfolio/Website:** [pranavsharma.org](https://pranavsharma.org) 
 * **Email:** reach.sharmapranav@gmail.com 
